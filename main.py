@@ -290,4 +290,4 @@ async def transferteklifi(interaction: discord.Interaction, hedef_takim: str, oy
 
 
 # DİKKAT: YENİ TOKEN'INI BURAYA YAPIŞTIR
-bot.run('MTU2MDk1NDQ5OTExMDAxNTAxNg.GMHiAv.AubrZIWLxFfVHi5wNe0j8XmVj1WKzK4NcmO4KE')
+bot.run('token')
